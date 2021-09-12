@@ -1,0 +1,7 @@
+Java言語で学ぶデザインパターン入門
+第2章
+練習問題
+問題2-2
+・プロパティの集合をファイルに保存するFileProperitesクラスを作成する。
+・FilePropertiesクラスは、FileIOインターフェイスをimplementsする。
+・java.util.Propertiesクラスに変換する。

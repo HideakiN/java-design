@@ -1,0 +1,5 @@
+#written by FileProperties
+#Sun Sep 12 13:53:17 JST 2021
+day=20
+year=2000
+month=11
